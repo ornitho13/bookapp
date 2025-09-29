@@ -1,0 +1,12 @@
+node_modules/
+android/
+ios/
+.expo/
+.expo-shared/
+build/
+.gradle/
+.idea/
+.DS_Store
+npm-debug.log*
+yarn-error.log
+package-lock.json
